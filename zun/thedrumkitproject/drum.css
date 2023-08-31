@@ -1,0 +1,99 @@
+.drum{
+    display: flex;
+    justify-content: center;
+    font-size: 100px;
+    color: white;
+    margin-top: 400px;
+    font-family: cursive;
+    text-shadow:  3px 0 #da0463;
+}
+.buttons{
+   display: flex;
+   gap: 30px;
+   justify-content: center;
+  margin-top: 100px;
+}
+body{
+    background-color: rgb(151, 99, 97)
+}
+.W{
+    background-image: url(./tom1.png);
+    width: 150px;
+    height: 150px;
+    border: 10px solid #404b69;
+    border-radius: 15px;
+    font-size: 6rem;
+    color: deeppink;
+    font-family: cursive;
+    text-shadow:  3px 0 white;
+}
+.A{
+    background-image: url(./tom2.png);
+    width: 150px;
+    height: 150px;
+    border: 10px solid #404b69;
+    border-radius: 15px;
+    font-size: 6rem;
+    color: deeppink;
+    font-family: cursive;
+    text-shadow:  3px 0 white;
+}
+.S{
+    background-image: url(./tom3.png);
+    width: 150px;
+    height: 150px;
+    border: 10px solid #404b69;
+    border-radius: 15px;
+    font-size: 6rem;
+    color: deeppink;
+    font-family: cursive;
+    text-shadow:  3px 0 white;
+}
+.D{
+    background-image: url(./tom4.png);
+    width: 150px;
+    height: 150px;
+    border: 10px solid #404b69;
+    border-radius: 15px;
+    font-size: 6rem;
+    color: deeppink;
+    font-family: cursive;
+    text-shadow:  3px 0 white;
+}
+.J{
+    background-image: url(./snare.png);
+    width: 150px;
+    height: 150px;
+    border: 10px solid #404b69;
+    border-radius: 15px;
+    font-size: 6rem;
+    color: deeppink;
+    font-family: cursive;
+    text-shadow:  3px 0 white;
+}
+.K{
+    background-image: url(./crash.png);
+    width: 150px;
+    height: 150px;
+    border: 10px solid #404b69;
+    border-radius: 15px;
+    font-size: 6rem;
+    color: deeppink;
+    font-family: cursive;
+    text-shadow:  3px 0 wheat;
+}
+.l{
+    background-image: url(./kick.png);
+    width: 150px;
+    height: 150px;
+    border: 10px solid #404b69;
+    border-radius: 15px;
+    font-size: 6rem;
+    color: deeppink;
+    font-family: cursive;
+    text-shadow:  3px 0 white;
+}
+.animation{
+    box-shadow: 0 3px 4px 0 #dbedf3;
+    opacity: 0.5;
+}

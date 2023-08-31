@@ -1,0 +1,125 @@
+.white {
+  background-color: white;
+  width: 100wh;
+  height: 1000px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.meta {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 80px;
+}
+.bilgee {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 1000px;
+  background-color: rgb(255, 255, 255);
+}
+.logo {
+  width: 100px;
+  height: 30px;
+  margin-right: 40px;
+}
+.flex {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  gap: 20px;
+  width: 800px;
+  margin-right: 100px;
+  margin-left: 100px;
+}
+.search {
+  width: 170px;
+  height: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: rgb(238, 238, 238);
+  color: gray;
+  border-radius: 5px;
+  padding-left: 10px;
+}
+.photo {
+  margin-left: 20px;
+}
+.sunny {
+  width: 70px;
+  height: 24px;
+  background-color: rgb(238, 238, 238);
+  border-radius: 50px;
+  display: flex;
+  align-items: center;
+  margin-left: 30px;
+}
+.radius {
+  border-radius: 30px;
+  background-color: rgb(255, 255, 255);
+  width: 20px;
+  height: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-left: 2px;
+}
+.sun {
+  width: 15px;
+  height: 15px;
+}
+.size {
+  background-color: rgb(255, 255, 255);
+  width: 1000px;
+  height: 300px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.back {
+  width: 600px;
+  height: 300px;
+  background-color: rgb(242, 242, 242);
+  display: flex;
+  justify-content: center;
+}
+.flexone {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  padding: 10px;
+}
+.flexs {
+  display: flex;
+  gap: 7px;
+  margin-top: 40px;
+}
+.image {
+  width: 50px;
+  height: 50px;
+}
+.column {
+  display: flex;
+  flex-direction: column;
+  margin-left: 20px;
+}
+.collaborator {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  color: rgb(186, 186, 186);
+}
+.meet {
+  color: rgb(68, 68, 68);
+  margin-top: 30px;
+  display: flex;
+  justify-content: center;
+  font-family: Arial, Helvetica, sans-serif;
+  width: 530px;
+  text-align: center;
+}
+.logox {
+  padding: 8px;
+  background-color: grey;
+  border-radius: 8px;
+}
