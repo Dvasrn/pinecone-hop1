@@ -1,3 +1,5 @@
+
+
 /*const str ='Arvan tavan targan tarvaga';
 const words = str.split(' ');
 console.log(words);*/
@@ -24,7 +26,7 @@ console.log(person2.firstName);*/
         animals.indexOf(dog)
         animals.indexOf(hulgana)*/
 
-        /*const arr = [q, w, e, r];
+/*const arr = [q, w, e, r];
 
         const poppedValue = arr.pop();
         console.log(poppedValue);
@@ -44,7 +46,6 @@ console.log(count);*/
 //let car = {type: 'fiat', model: '500', color: 'white'};
 //Object.antries(car)
 
-
 /*const targer = {a: 1, b: 2};
 const sourse = {a: 1, b: 5};
 
@@ -53,31 +54,21 @@ const returnedTarget = Object.assign(targer, sourse);
 
 console.log(target)*/
 
-    //№1
+//№1
 
- /*const array1 = [1, 2, 3];
- console.log(array1.includes(2));
- const pets = [1, 2, 5];
- console.log(pets.includes(1));
- trueconsole.log(pets.includes(2));*/
+// const array1 = [1, 2, 3];
+// console.log(array1.includes(2));
 
-    //№2
+// const pets = [1, 2, 5];
+// console.log(pets.includes(1));
+// thisconsole.log(pets.includes(4));
 
+//№2
 
-    /*const array = ['1', '6', '3', '7']
+/*const array = ['1', '6', '3', '7']
 
     array.indexOf('6')
 
     console.log(array.indexOf(6))*/
 
-
-    //№3
-
-
-
-
-
-
-
-
-
+//№3
